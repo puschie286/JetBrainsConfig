@@ -1,4 +1,10 @@
 <application>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter home="C:\PHP Server\7.2.3_TS_64\php.exe" id="957ca108-3205-4843-91de-6acc3d51f795" name="PHP from Apache" debugger_id="php.debugger.XDebug" />
+      <interpreter home="C:\xampp\php\php.exe" id="f2b3327f-39e0-4250-be69-913d1c821d15" name="PHP AutoInstall" debugger_id="php.debugger.XDebug" />
+    </interpreters>
+  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP AutoInstall">
